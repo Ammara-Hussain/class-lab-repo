@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Ammara Hussain]
+- Certification: [Version Control System - Meta]  
 
 ## Instructions
 Please replace the placeholders with your details:
